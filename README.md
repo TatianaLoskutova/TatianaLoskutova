@@ -28,7 +28,7 @@
 
 <div>
   <a href="#">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -45,7 +45,7 @@
 
 | Курсы                                                                     | Дата              |
 | --------------------------------------------------------------------------| :---------------: |
-| Stepik.org/ ** Добрый, добрый Python                                      | 04/2023 - 05/2023 |
+| Stepik.org    ** Добрый, добрый Python                                    | 04/2023 - 05/2023 |
 | Яндекс Практикум (бэкенд разработчик)                                     | 06/2023 - xx/2024 |
 
 ---
