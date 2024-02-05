@@ -22,7 +22,7 @@
 
 ---
 
-### 🤝 Резюме:
+### Резюме:
 
 - HabrCareer: <a href="https://career.habr.com/tanyaloskutova12">Resume (RU) </a>
 
