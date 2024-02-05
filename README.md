@@ -24,7 +24,7 @@
 
 ### 🤝 Резюме:
 
-- HabrCareer: <a href="http://example.com/resume.pdf](https://career.habr.com/tanyaloskutova12">Resume (RU) </a>
+- HabrCareer: <a href="https://career.habr.com/tanyaloskutova12">Resume (RU) </a>
 
 ### 💻 Технологии:
 
