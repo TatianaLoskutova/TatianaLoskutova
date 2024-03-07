@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий python-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался зимой 2023 года, где я пробовала себя во многих направлениях, пробовала изучать язык Java Script, Python, попробовала свои силы в data science, но больше всего меня зацепила веб разработка, а именно бэкенед! С июня 2023 года по данный момент я изучаю разработку на курсе Яндекс Практикум(бэкенд разработчик). В настоящий момент мое обучение на курсе на финишной прямой[![Telegram Badge](https://img.shields.io/badge/T.Loskutova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tatyana_Loskutova)
+Я начинающий Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался зимой 2023 года, где я пробовала себя во многих направлениях, пробовала изучать язык Java Script, Python, попробовала свои силы в data science, но больше всего меня зацепила веб разработка, а именно бэкенед! С июня 2023 года по данный момент я изучаю разработку на курсе Яндекс Практикум(бэкенд разработчик). В настоящий момент мое обучение на курсе на финишной прямой[![Telegram Badge](https://img.shields.io/badge/T.Loskutova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tatyana_Loskutova)
 
 - :zap: Моя цель - начать работать в IT весной 2024 года.
 
