@@ -5,9 +5,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался зимой 2023 года, где я пробовала себя во многих направлениях, пробовала изучать язык Java Script, Python, попробовала свои силы в data science, но больше всего меня зацепила веб разработка, а именно backend! С июня 2023 года по апрель 2024 я изучала разработку на курсе Яндекс Практикум(backend разработчик).
+Я, Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался зимой 2023 года, где я пробовала себя во многих направлениях, пробовала изучать язык Java Script, Python, попробовала свои силы в data science, но больше всего меня зацепила веб разработка, а именно backend! С июня 2023 года по апрель 2024 я изучала разработку на курсе Яндекс Практикум(backend разработчик). На данный момент занимаюсь проектной деятельностью.
 
-- :zap: Моя цель - начать работать в IT в 2024 году.
+- :zap: Моя цель - начать работать fulltime в IT компании в 2024 году.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/T.Loskutova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tatyana_Loskutova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tanya.loskutova333@gmail.com)
 
