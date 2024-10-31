@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://camo.githubusercontent.com/b0916139c2710f4f55196b773144fc774e2a7c8fe82f9fb4e870cf51c13ae9f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3061616434383f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f" title="django" alt="django" width="60" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="60" height="40"/>&nbsp
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" title="djangoRest" alt="django" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp 
