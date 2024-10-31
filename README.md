@@ -5,9 +5,15 @@
 
 ### :man_technologist: Обо мне:
 
-Я, Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался зимой 2023 года, где я пробовала себя во многих направлениях, пробовала изучать язык Java Script, Python, попробовала свои силы в data science, но больше всего меня зацепила веб разработка, а именно backend! С июня 2023 года по апрель 2024 я изучала разработку на курсе Яндекс Практикум(backend разработчик). На данный момент занимаюсь проектной деятельностью.
+Я — Python разработчик,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> увлеченный веб-разработкой, особенно в области backend. Мой путь в IT начался зимой 2023 года, когда я начала изучать различные направления, включая JavaScript и Data Science. Однако именно backend веб-разработка больше всего меня зацепилa!
 
-- :zap: Моя цель - начать работать fulltime в IT компании в 2024 году.
+## Образование
+С июня 2023 года по апрель 2024 года я обучалась на курсе **Backend разработчик** в Яндекс Практикум. Этот курс дал мне глубокие знания и практические навыки, которые я применяю в своих проектах.
+
+## Проекты
+Я активно занимаюсь проектной деятельностью и работаю над различными проектами. C некоторыми вы можете ознакомиться в запиненых ссылках ниже
+
+- :zap: Моя цель — начать работать full-time в IT компании в 2024 году. Я стремлюсь развиваться как разработчик и внести свой вклад в интересные проекты.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/T.Loskutova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Tatyana_Loskutova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tanya.loskutova333@gmail.com)
 
@@ -18,7 +24,7 @@
 - Email: tanya.loskutova333@gmail.com
 - Telegram: @Tatyana_Loskutova
 - Whatsapp: +79095835574
-  
+Спасибо за внимание! Буду рада новым знакомствам и предложениям о сотрудничестве.
 
 ---
 
